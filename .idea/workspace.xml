@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a269a552-4fde-4c34-953c-faab522f34ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/app/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +96,7 @@
       <updated>1571143245348</updated>
       <workItem from="1571143249904" duration="8618000" />
       <workItem from="1571172158013" duration="1185000" />
-      <workItem from="1571211454960" duration="5217000" />
+      <workItem from="1571211454960" duration="8370000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1571231393430</created>
@@ -109,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571232120454</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fourth commit">
+      <created>1571232402003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571232402003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +139,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
     <MESSAGE value="Third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third commit" />
+    <MESSAGE value="Fourth commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth commit" />
   </component>
 </project>
