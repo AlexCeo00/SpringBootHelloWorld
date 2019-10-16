@@ -9,5 +9,5 @@ public class Helloworld {
     @RequestMapping ("/")
     public String index(){
         return "Hello World";
-    }
+    } //go to localhost:8080
 }

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a269a552-4fde-4c34-953c-faab522f34ca" name="Default Changelist" comment="" />
+    <list default="true" id="a269a552-4fde-4c34-953c-faab522f34ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/app/Helloworld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/app/Helloworld.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,11 +28,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1SEyrBWDPrjDLVxiGIyqPwELARm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/gs-batch-processing-master - Copy" />
@@ -86,11 +93,22 @@
       <updated>1571143245348</updated>
       <workItem from="1571143249904" duration="8618000" />
       <workItem from="1571172158013" duration="1185000" />
-      <workItem from="1571211454960" duration="3592000" />
+      <workItem from="1571211454960" duration="4199000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
